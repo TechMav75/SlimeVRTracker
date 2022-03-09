@@ -16,3 +16,8 @@ https://www.aliexpress.com/item/1005002559604104.html
 TP4056 Charging Boards
 https://www.aliexpress.com/item/32649780468.html
 
+180K Resistor
+https://www.mouser.com/ProductDetail/603-MFR-25FTE52-180K
+
+15817 Diode
+https://www.mouser.com/ProductDetail/833-1N5817-TP
