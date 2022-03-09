@@ -1,2 +1,4 @@
 # SlimeVRTracker
-Carrier board for the SlimeVR Tracker
+
+This is for the carrier board for the SlimeVR Tracker at https://docs.slimevr.dev/
+
