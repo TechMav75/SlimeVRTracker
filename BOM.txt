@@ -1,0 +1,18 @@
+RJ-45 sockets
+https://www.digikey.com/en/products/detail/amphenol-cs-fci/54602-908LF/1001360
+
+Side mount switches
+https://www.digikey.com/en/products/detail/te-connectivity-alcoswitch-switches/1825232-1/4021554
+
+MPU6050 Boards
+https://www.aliexpress.com/item/1005001864385331.html
+
+WeMos D1 Mini Pro Boards
+https://www.aliexpress.com/item/1005001824235269.html
+
+1200mAh Batteries, 804040
+https://www.aliexpress.com/item/1005002559604104.html
+
+TP4056 Charging Boards
+https://www.aliexpress.com/item/32649780468.html
+

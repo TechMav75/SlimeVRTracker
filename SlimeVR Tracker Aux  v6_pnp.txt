@@ -1,0 +1,30 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=SlimeVR Tracker Aux  v6
+*Date=08:01:50
+*CreatedBy=Fritzing 0.9.9b.2021-09-22.CD-348-0-f0af53a9
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;9.99627;-5.20985;-90;Bottom;TXT17
+2;;;22.716;-7.5451;-90;Bottom;TXT17
+3;;;13.2299;-8.48277;0;Bottom;M1
+4;;rj45-8;12.9873;-25.099;180;Bottom;U1
+5;;;7.47208;-5.20985;-90;Bottom;TXT17
+6;;;13.5746;-10.069;0;Bottom;TXT15
+7;;;13.6632;-7.41212;0;Bottom;TXT16
+8;;;13.81;-4.93675;0;Bottom;TXT17
+9;;;14.9766;-6.87605;-90;Bottom;TXT17
+10;;;17.4424;-7.39439;-90;Bottom;TXT17
+11;;;20.1427;-7.39665;-90;Bottom;TXT17
+12;;;25.181;-8.69747;-90;Bottom;TXT17
+13;;;4.94788;-5.20985;-90;Bottom;TXT17
+14;;;2.37345;-5.16808;-90;Bottom;TXT17
+15;;;12.5699;-7.39608;-90;Bottom;TXT17
