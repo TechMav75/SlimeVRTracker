@@ -14,3 +14,5 @@ v6 Aux Board: These are good.
 v6 Tracker Board: This has the power switch on the side under the charging board
 
 v7 Tacker Board: This has the power switch on the end, under the USB C port. This was moved to allow evrything that you need to access to protrude through the lid of the case. 
+
+Pimoroni Tracker v1 and Pimoroni Tracker Aux v1 are for the Pimoroni PIM448 IMU board, that has the ICM20948 sensor on it.
